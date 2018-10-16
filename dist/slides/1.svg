@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="667px" viewBox="0 0 375 667" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Account Settings</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M235,34.0444444 L235,37 L237.955556,37 L246.511111,28.3666667 L243.555556,25.4111111 L235,34.0444444 L235,34.0444444 Z M248.766667,26.1111111 C249.077778,25.8 249.077778,25.3333333 248.766667,25.0222222 L246.977778,23.2333333 C246.666667,22.9222222 246.2,22.9222222 245.888889,23.2333333 L244.488889,24.6333333 L247.444444,27.5888889 L248.766667,26.1111111 L248.766667,26.1111111 Z" id="path-1"></path>
+        <filter x="-114.3%" y="-100.0%" width="328.6%" height="328.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.26 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M147,33.0444444 L147,36 L149.955556,36 L158.511111,27.3666667 L155.555556,24.4111111 L147,33.0444444 L147,33.0444444 Z M160.766667,25.1111111 C161.077778,24.8 161.077778,24.3333333 160.766667,24.0222222 L158.977778,22.2333333 C158.666667,21.9222222 158.2,21.9222222 157.888889,22.2333333 L156.488889,23.6333333 L159.444444,26.5888889 L160.766667,25.1111111 L160.766667,25.1111111 Z" id="path-3"></path>
+        <filter x="-114.3%" y="-100.0%" width="328.6%" height="328.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.26 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M148,25.0444444 L148,28 L150.955556,28 L159.511111,19.3666667 L156.555556,16.4111111 L148,25.0444444 L148,25.0444444 Z M161.766667,17.1111111 C162.077778,16.8 162.077778,16.3333333 161.766667,16.0222222 L159.977778,14.2333333 C159.666667,13.9222222 159.2,13.9222222 158.888889,14.2333333 L157.488889,15.6333333 L160.444444,18.5888889 L161.766667,17.1111111 L161.766667,17.1111111 Z" id="path-5"></path>
+        <filter x="-114.3%" y="-100.0%" width="328.6%" height="328.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.26 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M0,12.0444444 L0,15 L2.95555556,15 L11.5111111,6.36666667 L8.55555556,3.41111111 L0,12.0444444 L0,12.0444444 Z M13.7666667,4.11111111 C14.0777778,3.8 14.0777778,3.33333333 13.7666667,3.02222222 L11.9777778,1.23333333 C11.6666667,0.922222222 11.2,0.922222222 10.8888889,1.23333333 L9.48888889,2.63333333 L12.4444444,5.58888889 L13.7666667,4.11111111 L13.7666667,4.11111111 Z" id="path-7"></path>
+        <filter x="-114.3%" y="-100.0%" width="328.6%" height="328.6%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.26 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-9" x="0" y="0" width="120" height="35" rx="3"></rect>
+        <filter x="-13.3%" y="-40.0%" width="126.7%" height="191.4%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.26 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-11" x="0" y="0" width="374" height="60"></rect>
+        <filter x="-7.6%" y="-37.5%" width="115.2%" height="195.0%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.836973852   0 0 0 0 0.836973852   0 0 0 0 0.836973852  0 0 0 0.556187726 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Account-Settings" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="375" height="667"></rect>
+        <g id="Group" transform="translate(16.000000, 78.000000)">
+            <g id="Group-6">
+                <g id="Group-7">
+                    <text id="Full-name" opacity="0.75999999" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#37474F">
+                        <tspan x="0" y="13">Full name</tspan>
+                    </text>
+                    <text id="Sivaprasadreddy-Sesh" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" fill="#37474F">
+                        <tspan x="0" y="37">Sivaprasadreddy Seshi Reddy</tspan>
+                    </text>
+                    <g id="Shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#4A90E2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <text id="Edit" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#4A90E2">
+                        <tspan x="259" y="35">Edit</tspan>
+                    </text>
+                    <g id="Group-Copy-2" transform="translate(0.000000, 122.000000)">
+                        <g id="Group-4">
+                            <text id="Phone-Number" opacity="0.75999999" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#37474F">
+                                <tspan x="0" y="13">Phone Number</tspan>
+                            </text>
+                            <text id="+91-8886767649" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" fill="#37474F">
+                                <tspan x="0" y="37">+91 8886767649</tspan>
+                            </text>
+                            <g id="Shape">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                <use fill="#4A90E2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                            <text id="Edit" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#4A90E2">
+                                <tspan x="171" y="34">Edit</tspan>
+                            </text>
+                            <text id="Confirm-your-phone-n" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#4A90E2">
+                                <tspan x="0" y="60">Confirm your phone number</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Group-Copy-3" transform="translate(0.000000, 205.000000)">
+                        <g id="Group-3">
+                            <text id="Password" opacity="0.75999999" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#37474F">
+                                <tspan x="0" y="13">Password</tspan>
+                            </text>
+                            <text id="***********" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" fill="#37474F">
+                                <tspan x="0" y="37">***********</tspan>
+                            </text>
+                            <g id="Shape">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                <use fill="#4A90E2" fill-rule="evenodd" xlink:href="#path-5"></use>
+                            </g>
+                            <text id="Edit" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#4A90E2">
+                                <tspan x="172" y="26">Edit</tspan>
+                            </text>
+                            <path d="M113,14 C108,14 103.7,17.1 102,21.5 C103.7,25.9 108,29 113,29 C118,29 122.3,25.9 124,21.5 C122.3,17.1 118,14 113,14 L113,14 Z M113,26.5 C110.2,26.5 108,24.3 108,21.5 C108,18.7 110.2,16.5 113,16.5 C115.8,16.5 118,18.7 118,21.5 C118,24.3 115.8,26.5 113,26.5 L113,26.5 Z M113,18.5 C111.3,18.5 110,19.8 110,21.5 C110,23.2 111.3,24.5 113,24.5 C114.7,24.5 116,23.2 116,21.5 C116,19.8 114.7,18.5 113,18.5 L113,18.5 Z" id="Shape" fill="#2196F3"></path>
+                        </g>
+                    </g>
+                    <g id="Group-5" transform="translate(0.000000, 61.000000)">
+                        <g id="Group-Copy" fill="#37474F">
+                            <text id="Email-address" opacity="0.75999999" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal">
+                                <tspan x="0" y="13">Email address</tspan>
+                            </text>
+                            <text id="prasad.srgss@gmail.c" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400">
+                                <tspan x="0" y="37">prasad.srgss@gmail.com</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-2-Copy" transform="translate(207.000000, 22.000000)">
+                            <g id="Shape">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                <use fill="#4A90E2" fill-rule="evenodd" xlink:href="#path-7"></use>
+                            </g>
+                            <text id="Edit" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#4A90E2">
+                                <tspan x="24" y="13">Edit</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="paper-button-raisedbutton-colored" transform="translate(0.000000, 266.000000)">
+                        <g id="clip">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                            <use fill="#FF5722" fill-rule="evenodd" xlink:href="#path-9"></use>
+                        </g>
+                        <text id="Save-Changes" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="16.3808594" y="23">Save Changes</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="Group-2" transform="translate(251.000000, 46.000000)"></g>
+        <g id="Group-2-Copy-2" transform="translate(163.000000, 167.000000)"></g>
+        <g id="Group-2-Copy-3" transform="translate(164.000000, 242.000000)"></g>
+        <g id="Rectangle">
+            <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+            <use fill="#607D8B" fill-rule="evenodd" xlink:href="#path-11"></use>
+        </g>
+        <polygon id="Shape" fill="#FFFFFF" points="26 29 13.8 29 19.4 23.4 18 22 10 30 18 38 19.4 36.6 13.8 31 26 31"></polygon>
+        <text id="Account-settings" font-family="Roboto-Regular, Roboto" font-size="20" font-weight="normal" fill="#FFFFFF">
+            <tspan x="42" y="37">Account settings</tspan>
+        </text>
+    </g>
+</svg>
