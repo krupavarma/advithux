@@ -42,15 +42,15 @@
     <div class="container">
 
       <div id="logo" class="pull-left">
-        <img src="img/svg/logo.svg" alt="logo" class="img-fluid" width="140px">
+       <a href="#hero"> <img src="img/svg/logo.svg" alt="logo" class="img-fluid" width="140px"></a>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="#body"><img src="img/logo.png" alt="" title="" /></a>-->
       </div>
 
       <nav id="nav-menu-container">
         <ul class="nav-menu">
-          <li class="menu-active"><a href="#hero">Home</a></li>
-          <li><a href="#about-us">About</a></li>
+          <!-- <li class="menu-active"><a href="#hero">Home</a></li> -->
+          <li><a href="#about-us">What we do</a></li>
           <li><a href="#features">Process</a></li>
           <li><a href="#screenshots">Gallery</a></li>
           <li><a href="#team">Team</a></li>
@@ -64,7 +64,7 @@
             </ul>
           </li> -->
           <li><a href="#blog">Blog</a></li>
-          <li><a href="#contacts">Contact</a></li>
+          <li><a href="#contact">Contact</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
@@ -73,7 +73,7 @@
   <!--==========================
     Hero Section
   ============================-->
-  <section id="hero" class="wow fadeIn">
+  <section id="hero" class="wow ">
     <div class="hero-container">
       <h1>Welcome to Advith User eXperience</h1>
       <h2>We provide eXperience design for growing brands & startups</h2>
@@ -92,7 +92,7 @@
                 <div class="container">
                     
                     <div class="row justify-content-center">
-                <div class="col-lg-12 col-md-12 " id="contact"> 
+                <div class="col-lg-12 col-md-12 " id="contacts"> 
                     <div class="form">
                       <!-- <div id="sendmessage">Your message has been sent. Thank you!</div> -->
                       <div id="errormessage"></div>
@@ -106,7 +106,7 @@
                           <div class="validation"></div>
                         </div>
                         <div class="form-group">
-                          <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                          <input type="text" class="form-control" name="subject" id="subject" minlength="10" maxlength="10" placeholder="Mobile" data-rule="minlen:4" data-msg="Please enter valid number" />
                           <div class="validation"></div>
                         </div>
                         <div class="form-group">
@@ -126,8 +126,8 @@
         </div>
       </div>
       <div class="btns">
-        <a href="#"><i class="fa fa-apple fa-3x"></i> App Store</a>
-        <a href="#"><i class="fa fa-play fa-3x"></i> Google Play</a>
+        <a href="#"></a><i class="fa fa-apple fa-3x"></i> App Store
+        <a href="#"></a><i class="fa fa-play fa-3x"></i> Google Play</a>
         <!-- <a href="#"><i class="fa fa-windows fa-3x"></i> windows</a> -->
       </div>
     </div>
@@ -136,7 +136,7 @@
   <!--==========================
     Get Started Section
   ============================-->
-  <section id="get-started" class="padd-section text-center wow fadeInUp">
+  <section id="get-started" class="padd-section text-center wow">
 
     <div class="container">
       <div class="section-title text-center">
@@ -200,7 +200,7 @@
   <!--==========================
     About Us Section
   ============================-->
-  <section id="about-us" class="about-us padd-section wow fadeInUp">
+  <section id="about-us" class="about-us padd-section wow" style="padding-top:65px">
     <div class="container">
       <div class="row justify-content-center">
 
@@ -238,7 +238,7 @@
     Features Section
   ============================-->
 
-  <section id="features" class="padd-section text-center wow fadeInUp">
+  <section id="features" class="padd-section text-center wow ">
 
     <div class="container">
       <div class="section-title text-center">
@@ -263,7 +263,7 @@
           <div class="feature-block">
             <img src="img/svg/vector.svg" alt="img" class="img-fluid">
             <h4>Wireframes</h4>
-            <p style="">We simplify the story taht specifically focuses on prioritization of content, functionalities and bevaviours</p>
+            <p style="">We simplify the story that specifically focuses on prioritization of content, functionalities and bevaviours</p>
           </div>
         </div>
 
@@ -322,7 +322,7 @@
   <!--==========================
     Screenshots Section
   ============================-->
-  <section id="screenshots" class="padd-section text-center wow fadeInUp">
+  <section id="screenshots" class="padd-section text-center wow ">
 
     <div class="container">
       <div class="section-title text-center">
@@ -356,15 +356,15 @@
     Video Section
   ============================-->
 
-  <section id="video" class="text-center wow fadeInUp">
-    <div class="overlay">
+  <section id="video" class="text-center wow ">
+    <div class="">
       <div class="container-fluid container-full">
 
         <div class="row">
             <video  muted autoplay loop height="20%" width="100%">
                 <source src="video/banner.mp4" type="video/mp4">
             </video>
-          <a href="#" class="js-modal-btn play-btn" data-video-id="s22ViV7tBKE"></a>
+          <!-- <a href="#" class="js-modal-btn play-btn" data-video-id="s22ViV7tBKE"></a> -->
         </div>
 
       </div>
@@ -374,7 +374,7 @@
   <!--==========================
     Team Section
   ============================-->
-  <section id="team" class="padd-section text-center wow fadeInUp">
+  <section id="team" class="padd-section text-center wow ">
 
     <div class="container">
       <div class="section-title text-center">
@@ -471,7 +471,7 @@
     Testimonials Section
   ============================-->
 
-  <section id="testimonials" class="padd-section text-center wow fadeInUp">
+  <section id="testimonials" class="padd-section text-center wow ">
     <div class="container">
       <div class="row justify-content-center">
 
@@ -538,7 +538,7 @@
   <!--==========================
     Pricing Table Section
   ============================-->
-  <!-- <section id="pricing" class="padd-section text-center wow fadeInUp">
+  <!-- <section id="pricing" class="padd-section text-center wow Up">
 
     <div class="container">
       <div class="section-title text-center">
@@ -634,13 +634,13 @@
   <!--==========================
     Blog Section
   ============================-->
-  <section id="blog" class="padd-section wow fadeInUp">
+  <section id="blog" class="padd-section wow ">
 
     <div class="container">
       <div class="section-title text-center">
 
         <h2>From the Blog</h2>
-        <p class="separator">Stay up to speed with slide UX</p>
+        <p class="separator">Stay up to speed with AdvithUX</p>
 
       </div>
     </div>
@@ -663,7 +663,7 @@
           <div class="block-blog text-left">
             <a href="#"><img src="img/blog/blog-image-2.jpg" class="img-responsive" alt="img"></a>
             <div class="content-blog">
-                <h4><a href="#">WHAT COMMUNITIES OF PRACTICE (COP) MEANS TO SLIDE UX</a></h4>
+                <h4><a href="#">WHAT COMMUNITIES OF PRACTICE (COP) MEANS TO AdvithUX</a></h4>
                 <span>14,October 2019</span>
                 <!-- <a class="pull-right readmore" href="#">read more</a> -->
               </div>
@@ -688,7 +688,7 @@
   <!--==========================
     Newsletter Section
   ============================-->
-  <section id="newsletter" class="newsletter text-center wow fadeInUp">
+  <section id="newsletter" class="newsletter text-center wow ">
     <div class="overlay padd-section">
       <div class="container">
 
@@ -719,7 +719,7 @@
   <!--==========================
     Contact Section
   ============================-->
-  <section id="contact" class="padd-section wow fadeInUp">
+  <section id="contact" class="padd-section wow ">
 
     <div class="container">
       <div class="section-title text-center">
@@ -732,22 +732,22 @@
       
       <div class="row justify-content-center" style="margin-bottom:20px">
 
-        <div class="col-lg-3 col-md-4">
+        <div class="col-lg-4 col-md-5">
 
           <div class="info">
             <div>
               <i class="fa fa-map-marker"></i>
-              <p>1-10/9/24, Manikonda, Hyderabad, Telangana , 500089<br></p>
+              <p style="color:black;text-decoration:none">1-10/9/24, Manikonda, Hyderabad, Telangana , 500089<br></p>
             </div>
 
             <div class="email">
               <i class="fa fa-envelope"></i>
-              <p>info@advithux.com</p>
+              <p><a href="mailto:info@advithux.com" style="color:black;text-decoration:none">info@advithux.com</a></p>
             </div>
 
             <div>
               <i class="fa fa-phone"></i>
-              <p>+91 8886767649</p>
+              <p><a href="tel:8886767649" style="color:black;text-decoration:none">+91 8886767649</a></p>
             </div>
           </div>
 
@@ -761,7 +761,7 @@
 
         </div>
 
-        <div class="col-lg-5 col-md-8">
+        <div class="col-lg-4 col-md-7">
           <div class="form">
             <!-- <div id="sendmessage">Your message has been sent. Thank you!</div> -->
             <div id="errormessage"></div>
@@ -775,7 +775,7 @@
                 <div class="validation"></div>
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                <input type="text" class="form-control"  minlength="10" maxlength="10" name="subject" id="subject" placeholder="Mobile" data-rule="minlen:4" data-msg="Please enter valid number" />
                 <div class="validation"></div>
               </div>
               <div class="form-group">
