@@ -728,7 +728,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 /* Video Section
 --------------------------------*/
 #video {
-  background: url(../img/video-bg.jpg) center center;
+  /* background: url(../img/video-bg.jpg) center center; */
   background-repeat: no-repeat;
   background-size: cover;
   height: 400px;
@@ -1386,3 +1386,9 @@ body.mobile-nav-active #mobile-nav-toggle i {
 .modal-dialog{
   top: 140px !important;
 }
+/* @media screen and (max-width: 768px) {
+
+.block img{
+display: unset !important;
+}
+} */
